@@ -94,13 +94,13 @@ targeting, seller acquisition, and seasonal campaign planning.
 ---
 
 ## Charts
-![Delivery Performance](charts/chart1_delivery_performance.png)
-![Review vs Delivery](charts/chart2_review_vs_delivery.png)
-![Category Revenue](charts/chart3_category_revenue.png)
-![State Orders](charts/chart4_state_orders.png)
-![Delay by State](charts/chart5_delay_by_state.png)
-![Payment Distribution](charts/chart6_payment_distribution.png)
-![Review Distribution](charts/chart7_review_distribution.png)
+![Delivery Performance](Charts/chart1_delivery_performance.png)
+![Review vs Delivery](Charts/chart2_review_vs_delivery.png)
+![Category Revenue](Charts/chart3_category_revenue.png)
+![State Orders](Charts/chart4_state_orders.png)
+![Delay by State](Charts/chart5_delay_by_state.png)
+![Payment Distribution](Charts/chart6_payment_distribution.png)
+![Review Distribution](Charts/chart7_review_distribution.png)
 
 ---
 
